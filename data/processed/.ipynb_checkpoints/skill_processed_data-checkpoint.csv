@@ -1,0 +1,271 @@
+skill,count,precent
+sql,4150,75.84
+python,3440,62.87
+pandas,604,11.04
+tableau,551,10.07
+postgresql,504,9.21
+b,446,8.15
+pytorch,376,6.87
+numpy,346,6.32
+git,263,4.81
+matplotlib,249,4.55
+data analysis,225,4.11
+docker,180,3.29
+pyspark,172,3.14
+greenplum,166,3.03
+tensorflow,165,3.02
+jira,151,2.76
+mysql,133,2.43
+uml,131,2.39
+big data,123,2.25
+r,109,1.99
+airflow,105,1.92
+linux,100,1.83
+xgboost,100,1.83
+sql server,98,1.79
+rest api,95,1.74
+qlikview,88,1.61
+ad hoc,85,1.55
+machine learning,82,1.5
+hive,81,1.48
+data science,79,1.44
+agile,77,1.41
+seaborn,70,1.28
+grafana,69,1.26
+bigquery,66,1.21
+json,65,1.19
+scipy,64,1.17
+devops,64,1.17
+catboost,63,1.15
+microsoft certified azure,60,1.1
+nosql,60,1.1
+java,59,1.08
+plotly,57,1.04
+databricks,56,1.02
+splunk,56,1.02
+amplitude,56,1.02
+deep learning,56,1.02
+mongodb,49,0.9
+confluence,47,0.86
+scrum,42,0.77
+flask,42,0.77
+supervised,38,0.69
+business studio,38,0.69
+javascript,38,0.69
+data data,37,0.68
+hoc analysis,35,0.64
+c,35,0.64
+transformers,34,0.62
+vertica,34,0.62
+opencv,33,0.6
+figma,31,0.57
+analysis marketing,30,0.55
+oracle bi,29,0.53
+nltk,28,0.51
+bash,26,0.48
+google analytics,25,0.46
+statistica,25,0.46
+bi power,24,0.44
+sql oracle,24,0.44
+sas,24,0.44
+platforms microsoft,24,0.44
+hadoop apache,23,0.42
+data mining,23,0.42
+c++,23,0.42
+analytics,23,0.42
+keras,23,0.42
+data engineer,22,0.4
+mapping,21,0.38
+data vault,21,0.38
+typescript,21,0.38
+cloud platforms,21,0.38
+snowflake,20,0.37
+data warehouse,20,0.37
+forecasting,20,0.37
+redmine,19,0.35
+mixpanel,19,0.35
+camunda,18,0.33
+gitlab,18,0.33
+bizagi,18,0.33
+spss,17,0.31
+pd,16,0.29
+android,15,0.27
+rabbitmq,15,0.27
+feature engineering,15,0.27
+swagger,15,0.27
+microservices,15,0.27
+selenium,15,0.27
+spacy,14,0.26
+oracle oracle,14,0.26
+data integration,14,0.26
+groovy,14,0.26
+streaming data,14,0.26
+template,13,0.24
+economics,13,0.24
+english,13,0.24
+tableau tableau,13,0.24
+data pipelines,13,0.24
+revit,13,0.24
+sqlalchemy,13,0.24
+leadership,13,0.24
+multiprocessing,12,0.22
+redis,12,0.22
+yandex,12,0.22
+blockchain,12,0.22
+research,11,0.2
+dcf,11,0.2
+sql sql,11,0.2
+vscode,10,0.18
+prometheus,10,0.18
+firebase,10,0.18
+psycopg,9,0.16
+threading,9,0.16
+bokeh,9,0.16
+google data,9,0.16
+data studio,9,0.16
+ar,9,0.16
+tns,8,0.15
+wms,8,0.15
+consultant,8,0.15
+autocad,8,0.15
+underwriting,8,0.15
+data governance,8,0.15
+conversion rate,8,0.15
+researcher,8,0.15
+php java,8,0.15
+interbase,8,0.15
+firebird,8,0.15
+reengineering,8,0.15
+cdc,8,0.15
+parquet,8,0.15
+avro,8,0.15
+data capture,8,0.15
+dbeaver,8,0.15
+redux,8,0.15
+server python,8,0.15
+systems data,8,0.15
+analytics business,8,0.15
+cloud services,8,0.15
+react,8,0.15
+kubernetes,8,0.15
+dama,8,0.15
+open source,7,0.13
+test driven,7,0.13
+arch,7,0.13
+sap sql,7,0.13
+dblink,7,0.13
+sap bi,7,0.13
+hibernate,7,0.13
+jdbc,7,0.13
+google docs,7,0.13
+qt,7,0.13
+servicenow,7,0.13
+yarn,7,0.13
+postman,7,0.13
+plantuml,7,0.13
+fastreport,7,0.13
+moodle,7,0.13
+monte carlo,7,0.13
+azure sql,7,0.13
+soapui,7,0.13
+beautifulsoup,6,0.11
+gds,6,0.11
+powerquery,6,0.11
+m,6,0.11
+elasticsearch,6,0.11
+friendly,6,0.11
+presentation,6,0.11
+data types,6,0.11
+problem solving,6,0.11
+data modeling,6,0.11
+statsmodels,6,0.11
+python libraries,6,0.11
+conditional operators,6,0.11
+performance optimization,6,0.11
+decode,6,0.11
+indexes,6,0.11
+casting,6,0.11
+operators,6,0.11
+data visualization,6,0.11
+statistics,6,0.11
+java php,5,0.09
+redux react,5,0.09
+data data data,5,0.09
+odbc,5,0.09
+question answering,5,0.09
+sql teradata,5,0.09
+analysis data,5,0.09
+django,5,0.09
+dockerfile,4,0.07
+networkx,4,0.07
+sql standard,4,0.07
+google analytics google,4,0.07
+activemq,4,0.07
+julia,4,0.07
+olap olap,4,0.07
+scala,4,0.07
+live coding,4,0.07
+decision making,4,0.07
+openapi,4,0.07
+alembic,4,0.07
+libreoffice,4,0.07
+decision,4,0.07
+data lakes,4,0.07
+bi bi,4,0.07
+oracle sql,4,0.07
+azure azure,4,0.07
+analysis,4,0.07
+msc,3,0.05
+tabular data,3,0.05
+airtable,3,0.05
+zeppelin,3,0.05
+dm,3,0.05
+scripting,3,0.05
+spark apache,3,0.05
+jenkins,3,0.05
+olap oracle,3,0.05
+stage,3,0.05
+data engineering,3,0.05
+russian,3,0.05
+agile development,3,0.05
+teamwork,3,0.05
+statistical,3,0.05
+unsupervised learning,3,0.05
+excel microsoft,3,0.05
+mapinfo,3,0.05
+scalable,3,0.05
+model development,3,0.05
+translate,3,0.05
+e,3,0.05
+nifi,3,0.05
+metadata,3,0.05
+kotlin,3,0.05
+sql pl,3,0.05
+workflow,3,0.05
+stata,3,0.05
+docker docker,3,0.05
+rest rest,3,0.05
+data processing,3,0.05
+precision recall,3,0.05
+dbscan,3,0.05
+k means,3,0.05
+cassandra,3,0.05
+pycharm,3,0.05
+topic modeling,3,0.05
+miner sas,3,0.05
+3gpp,3,0.05
+microsoft ax,3,0.05
+microsoft dynamics,3,0.05
+jupyter,3,0.05
+gurobi,3,0.05
+powershell,3,0.05
+data quality,3,0.05
+graph,3,0.05
+apex,2,0.04
+drill,2,0.04
+ruby,2,0.04
+storytelling,2,0.04
+internet point,2,0.04
+bitbucket,2,0.04
+rstudio,2,0.04
+survey,2,0.04
